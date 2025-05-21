@@ -23,5 +23,7 @@
         AtomOneDark,
         VisualStudioLight,
         VisualStudioDark,
+        SublimeMaterialLight,
+        SublimeMaterialDark,
     }
 }
