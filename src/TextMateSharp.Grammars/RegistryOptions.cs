@@ -341,6 +341,8 @@ namespace TextMateSharp.Grammars
                     return "visual-studio-light-theme.json";
                 case ThemeName.VisualStudioDark:
                     return "visual-studio-dark-theme.json";
+                case ThemeName.SublimeText:
+                    return "sublime-text-theme.json";
             }
 
             return null;

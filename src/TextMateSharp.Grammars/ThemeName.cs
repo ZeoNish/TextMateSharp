@@ -23,5 +23,6 @@
         AtomOneDark,
         VisualStudioLight,
         VisualStudioDark,
+        SublimeText,
     }
 }
