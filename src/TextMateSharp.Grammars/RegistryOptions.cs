@@ -341,6 +341,14 @@ namespace TextMateSharp.Grammars
                     return "visual-studio-light-theme.json";
                 case ThemeName.VisualStudioDark:
                     return "visual-studio-dark-theme.json";
+                case ThemeName.NotePadLight:
+                    return "notepad-light-color-theme.json";
+                case ThemeName.NotePadDark:
+                    return "notepad-dark-color-theme.json";
+                case ThemeName.NotePadLightRemixed:
+                    return "notepad-light-remixed-color-theme.json";
+                case ThemeName.NotePadDarkRemixed:
+                    return "notepad-dark-remixed-color-theme.json";
             }
 
             return null;

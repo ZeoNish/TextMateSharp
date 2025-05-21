@@ -23,5 +23,9 @@
         AtomOneDark,
         VisualStudioLight,
         VisualStudioDark,
+        NotePadLight,
+        NotePadDark,
+        NotePadLightRemixed,
+        NotePadDarkRemixed,
     }
 }
